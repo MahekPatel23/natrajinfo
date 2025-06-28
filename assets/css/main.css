@@ -594,6 +594,12 @@ input.main-search-input::placeholder {
   margin-bottom: 30px;
   margin-top: -6px;
 }
+.section-title-product{
+    position: relative;
+    z-index: 99;
+    margin-bottom: -52px;
+    margin-top: 7px;
+}
 @media (max-width: 767px) {
   .section-title {
     margin-bottom: 0;
@@ -611,6 +617,7 @@ input.main-search-input::placeholder {
   margin-right: 5px;
 }
 .section-title .sub-title.color-2 {
+  margin-top: 20px;
   color: var(--theme-2) !important;
 }
 .section-title .sub-title.color-3 {
