@@ -598,7 +598,7 @@ input.main-search-input::placeholder {
     position: relative;
     z-index: 99;
     margin-bottom: -52px;
-    margin-top: 7px;
+    margin-top: 109px;
 }
 @media (max-width: 767px) {
   .section-title {
@@ -641,6 +641,7 @@ input.main-search-input::placeholder {
 }
 @media (max-width: 575px) {
   .section-title h2 {
+    margin-top: 10px;
     font-size: 28px;
   }
 }
@@ -3474,6 +3475,14 @@ input.main-search-input::placeholder {
   position: relative;
   background-position: center;
   top: 80px;
+}
+
+.bg-a {
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  top: 16px;
 }
 
 .nice-select {
