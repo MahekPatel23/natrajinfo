@@ -201,7 +201,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Chelsea Market", system-ui;
+  font-family: inherit;
   margin: 0px;
   padding: 0;
   color: var(--header);
