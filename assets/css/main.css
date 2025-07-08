@@ -497,7 +497,9 @@ input.main-search-input::placeholder {
   width: 50px;
   transition: all 0.4s ease-in-out;
 }
-
+.paragraph-p{
+  margin-top: 15px;
+}
 .scroll-up::after {
   position: absolute;
   font-family: "Font Awesome 5 Pro";
@@ -4931,8 +4933,8 @@ input.main-search-input::placeholder {
   }
 }
 .event-card-items .event-image img {
-  width: 100%;
-  height: auto;
+  width: 200px;
+  height: 200px;
 }
 .event-card-items .event-content {
   padding: 30px;
